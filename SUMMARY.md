@@ -1,5 +1,4 @@
 # Summary
 
-* [关于略知](README.md)
-* [Intro](intro.md)
+* [1.1  关于略知](README.md)
 
