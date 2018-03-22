@@ -20,8 +20,8 @@
   * [3.1.2  专栏](ying-xiao-zhong-xin/fu-fei-yue-du/312-zhuan-lan.md)
 * [3.2  直播课程](ying-xiao-zhong-xin/32-zhi-bo-ke-cheng.md)
   * [3.2.1  直播设置](ying-xiao-zhong-xin/32-zhi-bo-ke-cheng/321-zhi-bo-she-zhi.md)
-  * 3.2.2  单课
-  * 3.2.3  系列课
+  * [3.2.2  单课](ying-xiao-zhong-xin/32-zhi-bo-ke-cheng/322-dan-ke.md)
+  * [3.2.3  系列课](ying-xiao-zhong-xin/32-zhi-bo-ke-cheng/323-xi-lie-ke.md)
 
 ## 店铺设置
 
