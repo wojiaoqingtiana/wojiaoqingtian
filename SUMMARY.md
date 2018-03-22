@@ -15,9 +15,9 @@
 
 ## 营销中心
 
-* [3.1  付费阅读](ying-xiao-zhong-xin/fu-fei-yue-du.md)
-  * 3.1.1  文章
-  * 3.1.2  专栏
+* 3.1  付费阅读
+  * [3.1.1  文章](ying-xiao-zhong-xin/fu-fei-yue-du/311-wen-zhang.md)
+  * [3.1.2  专栏](ying-xiao-zhong-xin/fu-fei-yue-du/312-zhuan-lan.md)
 
 ## 店铺设置
 
@@ -26,4 +26,6 @@
 ## 用户管理
 
 ## 运营规则
+
+
 
