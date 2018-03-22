@@ -16,5 +16,5 @@
 
 #### Step3. 创建完成，即可进入属于自己的知识店铺 {#step3-创建完成，即可添加商品}
 
-添加商品方法，请点击这里
+添加商品方法，请点击[这里](/ying-xiao-zhong-xin/fu-fei-yue-du/311-wen-zhang.md)
 
