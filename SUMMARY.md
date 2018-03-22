@@ -31,7 +31,7 @@
   * [4.1.2  会员列表](ying-xiao-gong-ju/hui-yuan-guan-li/412-hui-yuan-lie-biao.md)
 * [4.2  营销中心](ying-xiao-gong-ju/42-ying-xiao-zhong-xin.md)
   * [4.2.1  推广中心](ying-xiao-gong-ju/42-ying-xiao-zhong-xin/421-tui-guang-zhong-xin.md)
-  * 4.2.2  优惠券
+  * [4.2.2  优惠券](ying-xiao-gong-ju/42-ying-xiao-zhong-xin/422-you-hui-quan.md)
 
 ## 店铺设置
 
