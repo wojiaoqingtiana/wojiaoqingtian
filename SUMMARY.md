@@ -24,7 +24,7 @@
   * [3.2.3  系列课](ying-xiao-zhong-xin/32-zhi-bo-ke-cheng/323-xi-lie-ke.md)
 * [3.3  在线问答](ying-xiao-zhong-xin/33-zai-xian-wen-da.md)
   * [3.3.1  专家管理](ying-xiao-zhong-xin/331-wen-ti-lie-biao.md)
-  * 3.3.2  问题列表
+  * [3.3.2  问题列表](ying-xiao-zhong-xin/332-wen-ti-lie-biao.md)
 
 ## 店铺设置
 
