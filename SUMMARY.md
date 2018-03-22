@@ -49,7 +49,9 @@
 
 * [6.1  统计报表](cai-wu-guan-li/61-tong-ji-bao-biao.md)
 * [6.2  收入明细](cai-wu-guan-li/62-shou-ru-ming-xi.md)
-* 6.3  提现管理
+* [6.3  提现管理](cai-wu-guan-li/63-ti-xian-guan-li.md)
+  * [6.3.1  我的提现记录](cai-wu-guan-li/63-ti-xian-guan-li/631-wo-de-ti-xian-ji-lu.md)
+  * 6.3.2  用户提现记录
 
 ## 用户管理
 
