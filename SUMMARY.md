@@ -13,9 +13,7 @@
 
 ## 内容变现
 
-## 营销中心
-
-* 3.1  付费阅读
+* [3.1  付费阅读](ying-xiao-zhong-xin/31-fu-fei-yue-du.md)
   * [3.1.1  文章](ying-xiao-zhong-xin/fu-fei-yue-du/311-wen-zhang.md)
   * [3.1.2  专栏](ying-xiao-zhong-xin/fu-fei-yue-du/312-zhuan-lan.md)
 * [3.2  直播课程](ying-xiao-zhong-xin/32-zhi-bo-ke-cheng.md)
@@ -25,6 +23,8 @@
 * [3.3  在线问答](ying-xiao-zhong-xin/33-zai-xian-wen-da.md)
   * [3.3.1  专家管理](ying-xiao-zhong-xin/331-wen-ti-lie-biao.md)
   * [3.3.2  问题列表](ying-xiao-zhong-xin/332-wen-ti-lie-biao.md)
+
+## 营销中心
 
 ## 店铺设置
 
