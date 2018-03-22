@@ -48,7 +48,7 @@
 ## 财务管理
 
 * [6.1  统计报表](cai-wu-guan-li/61-tong-ji-bao-biao.md)
-* 6.2  收入明细
+* [6.2  收入明细](cai-wu-guan-li/62-shou-ru-ming-xi.md)
 * 6.3  提现管理
 
 ## 用户管理
