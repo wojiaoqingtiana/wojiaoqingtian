@@ -56,7 +56,7 @@
 ## 用户管理
 
 * [7.1  用户列表](yong-hu-guan-li/71-yong-hu-lie-biao.md)
-* 7.2  信息采集表单
+* [7.2  信息采集表单](yong-hu-guan-li/72-xin-xi-cai-ji-biao-dan.md)
 
 ## 运营规则
 
