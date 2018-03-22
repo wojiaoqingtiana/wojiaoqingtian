@@ -18,6 +18,10 @@
 * 3.1  付费阅读
   * [3.1.1  文章](ying-xiao-zhong-xin/fu-fei-yue-du/311-wen-zhang.md)
   * [3.1.2  专栏](ying-xiao-zhong-xin/fu-fei-yue-du/312-zhuan-lan.md)
+* [3.2  直播课程](ying-xiao-zhong-xin/32-zhi-bo-ke-cheng.md)
+  * [3.2.1  直播设置](ying-xiao-zhong-xin/32-zhi-bo-ke-cheng/321-zhi-bo-she-zhi.md)
+  * 3.2.2  单课
+  * 3.2.3  系列课
 
 ## 店铺设置
 
@@ -26,6 +30,4 @@
 ## 用户管理
 
 ## 运营规则
-
-
 
