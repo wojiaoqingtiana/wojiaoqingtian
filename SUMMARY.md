@@ -43,6 +43,7 @@
 * [5.2  分类管理](dian-pu-she-zhi/52-fen-lei-guan-li.md)
 * [5.3  导航栏设置](dian-pu-she-zhi/53-dao-hang-lan-she-zhi.md)
 * [5.4  绑定公众号](dian-pu-she-zhi/55-bang-ding-gong-zhong-hao.md)
+* [5.5  版权设置](dian-pu-she-zhi/55-ban-quan-she-zhi.md)
 
 ## 财务管理
 
