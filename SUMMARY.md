@@ -35,11 +35,11 @@
 
 ## 店铺设置
 
-* 5.1  基础设置
-  * [5.1.1  手机预览](dian-pu-she-zhi/511-shou-ji-yu-lan.md)
-  * 5.1.2  轮播图设置
-  * 5.1.3  分享设置
-  * [5.1.4  公众号设置](dian-pu-she-zhi/514-gong-zhong-hao-she-zhi.md)
+* [5.1  基础设置](dian-pu-she-zhi/51-ji-chu-she-zhi.md)
+  * [5.1.1  手机预览](dian-pu-she-zhi/514-gong-zhong-hao-she-zhi.md)
+  * [5.1.2  轮播图设置](dian-pu-she-zhi/512-lun-bo-tu-she-zhi.md)
+  * [5.1.3  分享设置](dian-pu-she-zhi/513-fen-xiang-she-zhi.md)
+  * [5.1.4  公众号设置](dian-pu-she-zhi/511-shou-ji-yu-lan.md)
 
 ## 财务管理
 
