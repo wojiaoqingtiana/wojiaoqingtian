@@ -40,6 +40,7 @@
   * [5.1.2  轮播图设置](dian-pu-she-zhi/512-lun-bo-tu-she-zhi.md)
   * [5.1.3  分享设置](dian-pu-she-zhi/513-fen-xiang-she-zhi.md)
   * [5.1.4  公众号设置](dian-pu-she-zhi/511-shou-ji-yu-lan.md)
+* [5.2  分类管理](dian-pu-she-zhi/52-fen-lei-guan-li.md)
 
 ## 财务管理
 
