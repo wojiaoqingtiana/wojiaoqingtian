@@ -13,9 +13,9 @@
 
 ## 内容变现
 
-**3.1**  付费阅读
+[3.1  付费阅读](nei-rong-bian-xian/31-fu-fei-yue-du.md)
 
-* [3.1.1  文章](nei-rong-bian-xian/311-wen-zhang.md)
+* [3.1.1  文章](nei-rong-bian-xian/31-fu-fei-yue-du/311-wen-zhang.md)
 
 ## 营销中心
 
