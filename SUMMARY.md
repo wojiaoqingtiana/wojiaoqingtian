@@ -57,6 +57,7 @@
 
 * [7.1  用户列表](yong-hu-guan-li/71-yong-hu-lie-biao.md)
 * [7.2  信息采集表单](yong-hu-guan-li/72-xin-xi-cai-ji-biao-dan.md)
+* [7.3  访问统计](yong-hu-guan-li/73-fang-wen-tong-ji.md)
 
 ## 运营规则
 
